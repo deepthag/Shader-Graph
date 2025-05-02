@@ -1,4 +1,4 @@
-# Shader-Graph
+# Shader Graph
 MTEC-340 Unity Techniques Presentation
 
 ## Overview 
@@ -18,3 +18,9 @@ Shader Graph is a tool that allows you to build textures and materials visually 
 6. Drag and drop Shader Graph asset into the "Materials" field of the Mesh Renderer. 
 7. To make nodes of the Shader Graph editable in the Inspector window, convert the node to a property.
     (Right click on node > Convert To > Property)
+
+## References 
+
+[Unity Shader Graph Manual](https://docs.unity3d.com/Packages/com.unity.shadergraph@5.2/manual/Getting-Started.html)
+
+[Basics of Shader Graph Unity Tutorial](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
